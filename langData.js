@@ -1,4 +1,4 @@
-const langData = [
+const langData = {
   [       
     {
       id: 1,
@@ -340,6 +340,6 @@ const langData = [
       audio: 'audio/valiiski.mp3'
     }
   ]
-];
+};
 
 export default langData;
